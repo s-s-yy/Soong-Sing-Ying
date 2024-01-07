@@ -1,0 +1,501 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,FrequencyOfVisits,Churn
+595617b3-eb3e-4395-80ef-73dd49a596d5,23,Male,East Matthew,Bronze,73,402.73,Electronics,2/12/2023,Social research officer government,14,0
+1503ce0c-7c9a-4d5e-bf11-e77c6bbec36a,61,Female,Valerietown,Platinum,60,968.84,Clothing,22/5/2023,Probation officer,24,1
+6795abdb-3cc8-4fc4-97d8-8ba76f21645f,37,Male,Millerton,Bronze,49,262.31,Clothing,17/11/2023,Exhibition designer,5,0
+38930c7e-2d1c-4c40-b40b-1d1feb32e3c4,37,Female,North Soniamouth,Platinum,14,159.32,Electronics,20/6/2023,Futures trader,14,0
+94226a15-26ca-4873-8e54-7674a6b2abf2,51,Male,Davidtown,Silver,42,173.22,Clothing,8/2/2023,Commercial/residential surveyor,24,0
+8d004535-d0d4-422b-8e96-7808a0a6734b,38,Female,South Darryl,Silver,54,680.73,Home Goods,10/6/2023,Agricultural consultant,11,0
+5a1b900c-a5a7-477a-a261-e776fd16f460,67,Male,South Abigailtown,Silver,24,597.78,Home Goods,18/9/2023,Best boy,10,1
+947c9641-4bec-483d-9d87-1151fe4fcdc7,56,Female,West Kyleville,Bronze,74,555.82,Electronics,16/3/2023,Designer ceramics/pottery,19,0
+fbd0173c-2795-4fde-abca-95ab4263b2c2,24,Female,East Kimberlyport,Gold,68,583.49,Electronics,21/8/2023,Chemical engineer,18,1
+97dd3bc3-57d6-4135-a5b3-841871f20ea9,43,Male,Lake Jamestown,Silver,20,625.52,Clothing,7/2/2023,Location manager,3,1
+bc568ce2-bced-45a5-8665-d09beefed773,24,Female,Jameschester,Platinum,30,374.84,Clothing,30/8/2023,Engineer electrical,17,1
+995d57da-3a0d-4195-9bca-87431d9dea64,48,Male,West Emily,Gold,98,197.64,Electronics,5/9/2023,Radiographer therapeutic,19,0
+d9852220-8505-4bc1-a89d-141e90073a66,41,Male,Lamhaven,Bronze,74,947.47,Electronics,11/10/2023,Secretary/administrator,18,0
+4c80c821-a3f0-427c-93fd-0058e6585b16,25,Female,Carolstad,Platinum,93,317.17,Clothing,3/10/2023,Graphic designer,17,0
+1c9b5a6a-07d5-42b6-b4bf-0212910a96ab,46,Male,East Michaelside,Silver,16,276.01,Clothing,17/12/2023,Make,25,1
+3c362b55-7385-4d87-8d1d-c7c406552c94,18,Male,South Jacobmouth,Silver,70,679.36,Electronics,28/1/2023,Optician dispensing,19,1
+462f9220-9cca-4cb9-8bd1-2c6e7af53e35,58,Female,East Michelleshire,Silver,14,170.6,Electronics,24/3/2023,Film/video editor,20,1
+7731007d-5554-4ee3-9c16-7733c98302b1,38,Male,Cristinaborough,Gold,72,643.95,Electronics,1/7/2023,Film/video editor,17,1
+6ab8cc14-72a8-4e28-ad53-8902368588a0,65,Male,North Breannafort,Bronze,37,873.07,Electronics,1/10/2023,Surveyor quantity,27,1
+ec3bdf5a-3c02-476f-88ba-652515ac3ddf,49,Female,Alexiston,Bronze,57,112.94,Electronics,4/4/2023,Surveyor building,22,0
+0d19a933-0a9b-45fe-85a6-999a3a6c4c0e,22,Male,South Jadeborough,Gold,86,620.58,Home Goods,13/4/2023,Charity officer,6,1
+e95d466b-93cb-4b2d-a0ae-7ec3aa5611f8,53,Male,Robertton,Silver,87,725.89,Home Goods,9/11/2023,English as a second language teacher,25,1
+db6df88c-8965-4119-a916-610e5473ef6f,26,Male,New Justin,Platinum,98,830.53,Home Goods,13/9/2023,Therapist horticultural,20,1
+dcc34747-65b0-4bfc-a8d9-7a49820fae77,37,Male,New Bryan,Platinum,12,473.57,Clothing,28/10/2023,Writer,22,1
+66db4caa-9383-44eb-913d-e2aa76e284fd,48,Male,New Michael,Bronze,1,952.1,Electronics,22/7/2023,Air traffic controller,9,1
+e8cb5a77-59ed-4e1d-b45e-0207532cac9a,53,Male,West Michaelburgh,Gold,34,949.08,Electronics,28/7/2023,Emergency planning/management officer,21,0
+6ded600b-4fec-437d-8439-35dd6e1a0424,38,Female,Katherineton,Platinum,91,337.4,Electronics,4/11/2023,Lawyer,28,0
+356f42fb-452c-4e80-ae18-322f28a8a778,64,Male,East Michael,Silver,44,806.68,Electronics,26/12/2023,Broadcast engineer,14,1
+3873764c-b05c-4c35-aaf1-267a5d53cb89,54,Female,Brownport,Silver,60,736.88,Electronics,20/2/2023,Health physicist,12,0
+3d2370f0-00e9-408d-9b8a-c417a599b555,64,Male,North Anthony,Silver,7,552.25,Home Goods,13/6/2023,Futures trader,18,0
+fab43ef4-55a5-4bf4-89af-54fd63c52dde,43,Female,Fletcherstad,Silver,34,548.38,Home Goods,5/12/2023,Comptroller,23,1
+66969fe2-25da-4817-9808-f6ffa143be43,25,Male,Juliefort,Silver,8,187.15,Home Goods,3/8/2023,Clinical psychologist,13,1
+f6b86513-0877-4a33-b21b-d52a464ff2a6,24,Male,Laurafort,Bronze,46,175.17,Home Goods,6/12/2023,Education officer community,11,0
+27305577-5069-4b8e-a820-0fed41b4541b,52,Female,Carrieside,Platinum,47,720.39,Clothing,28/1/2023,Lexicographer,17,0
+c14e1b91-67b6-4683-81ec-1a21b9bd0cd1,53,Male,Levystad,Gold,4,92.22,Electronics,22/11/2023,Furniture designer,1,1
+adcc6c66-8c2c-4405-8597-d8b8b8310ca4,44,Male,Lake Anthony,Gold,18,305.51,Electronics,26/8/2023,Programmer multimedia,3,0
+f50dd8b5-dcef-484a-9dc0-e5fc232ebf78,30,Female,South Shannon,Platinum,100,54.55,Clothing,22/11/2023,Writer,9,0
+955d20d2-2dcf-45e4-9316-10d09f882c54,36,Male,North Sarahside,Platinum,95,416.29,Home Goods,14/1/2023,Fish farm manager,14,1
+30bee8fd-77ba-4f83-b539-fd0168dd68c2,58,Male,Smithmouth,Gold,61,916.47,Clothing,27/1/2023,Outdoor activities/education manager,24,0
+2cc81c77-1d1a-40bb-a8ac-fd81541eacb0,51,Male,Jasonside,Silver,20,92.76,Electronics,25/3/2023,Producer television/film/video,3,1
+e347210a-4de8-4f4f-b8d3-b0e1ad6a39e2,37,Female,Port Jeffery,Silver,71,272.22,Home Goods,4/7/2023,Film/video editor,24,0
+3eead04c-b106-4317-9c3e-a992939ee694,39,Female,Holmesland,Silver,47,290.73,Clothing,27/4/2023,Clinical research associate,18,1
+94de0283-9142-4ec3-af5e-150e91a5651e,58,Female,Schneiderport,Bronze,73,407.58,Clothing,17/8/2023,Film/video editor,16,1
+b8c81ec6-f0d1-4eb9-b4c3-1d504c6ca903,58,Male,Port Patriciachester,Bronze,1,776.31,Home Goods,19/11/2023,Fisheries officer,6,0
+ebe17600-330b-43c7-ae90-23294e25a4fc,64,Male,Kyleville,Gold,8,585.97,Clothing,5/8/2023,Freight forwarder,16,1
+bd14e084-3fcf-4f32-9638-3e3aacbefc26,30,Male,Brownhaven,Platinum,64,606.05,Clothing,14/9/2023,Musician,23,1
+ce9d7d66-a465-46ae-bd0d-0561123b38fb,27,Female,North Sierra,Bronze,8,328.49,Home Goods,24/10/2023,Community education officer,6,0
+54c8c9dd-e53a-4b99-b56c-78c33aa2dbd6,20,Female,Sandersville,Platinum,46,326.49,Home Goods,31/8/2023,Geologist engineering,1,0
+05885f84-1c75-42e3-9201-c186410e3071,18,Female,Garzafurt,Bronze,92,511.78,Home Goods,4/2/2023,Commercial/residential surveyor,27,0
+6135d55d-9b07-49e5-b71c-946cfff32504,26,Male,Bakerport,Gold,40,517.91,Home Goods,7/7/2023,Event organiser,7,1
+c8d5e90e-6c0d-4170-89db-a3f4b1959249,57,Male,Kennethbury,Platinum,47,756.6,Home Goods,29/10/2023,Early years teacher,15,1
+253d8837-42c1-41c3-99fa-a747c6598354,64,Male,Petersonfurt,Silver,71,930.15,Electronics,10/2/2023,Media planner,12,0
+a21f724c-97b5-436f-a8dd-07addf28e0ac,63,Female,Port Jessicatown,Platinum,89,297.38,Clothing,3/11/2023,Materials engineer,1,0
+af85bfc8-d442-493f-9b04-3d2be6040f98,70,Male,North Manuel,Silver,5,959.04,Home Goods,27/6/2023,Fish farm manager,21,0
+7e897e80-acaf-477b-9c7c-f02002a45176,19,Female,South Ryan,Bronze,8,704.48,Electronics,22/7/2023,Scientist research (medical),19,1
+f14533b5-58e3-4470-8c80-71f109cdbfd6,48,Male,Greeneville,Silver,56,126.86,Clothing,13/3/2023,Music tutor,15,0
+4c7db66b-7fe9-45cf-b749-ba34b507430e,40,Male,North Brandon,Bronze,78,405.36,Home Goods,11/3/2023,Administrator arts,22,0
+4715c3a1-3c75-4768-a66d-7b30566b0b05,62,Female,Douglasburgh,Silver,34,441.23,Clothing,28/5/2023,Interpreter,5,0
+74f89e9d-eb89-4cbe-92d3-b986827dc5c7,36,Male,East Brenda,Platinum,57,389.33,Clothing,3/9/2023,Accommodation manager,25,0
+a31ef799-1e0c-4165-be5b-157df6c51ceb,45,Female,Angelastad,Silver,13,358.88,Home Goods,7/9/2023,Biomedical scientist,9,0
+43b2ea75-90f0-42ea-ae90-c54863686efd,47,Female,South Corybury,Bronze,74,438.71,Electronics,20/3/2023,Designer television/film set,11,0
+6f9cc2ce-fc3b-4eb0-adf3-6688fa4d3167,69,Male,Lake Vincentborough,Platinum,88,368.41,Electronics,22/6/2023,Lobbyist,29,1
+d39bfd6c-147a-4f4c-8be7-c098444de352,58,Male,Timview,Platinum,30,235.63,Home Goods,7/2/2023,Garment/textile technologist,17,0
+bae67a9a-0dc5-44da-8586-6199f0d2b66f,18,Female,Kristenhaven,Gold,34,554.33,Clothing,25/1/2023,Garment/textile technologist,12,1
+83ae96a1-e56d-4a3a-ab03-d3501a0408d4,52,Female,East Michaelfort,Silver,71,289.97,Electronics,29/3/2023,Teacher primary school,23,1
+4e9646cf-0fc2-4430-aa2d-239309e86cb0,57,Female,Lake Monica,Platinum,31,332.49,Home Goods,1/11/2023,Public house manager,12,0
+25dcc518-f5d2-4fd0-be0b-c1bd9a48b197,34,Female,Williamsberg,Gold,40,846.71,Home Goods,20/10/2023,Chief Technology Officer,11,0
+3b6c9fd7-7229-4553-acd0-bb8d3313ee8f,23,Male,New Sherry,Bronze,73,462.14,Home Goods,17/5/2023,Media planner,11,0
+2234b01f-a06d-45d9-b833-ac436da8cd8f,31,Male,West Kelly,Platinum,78,924.98,Electronics,4/7/2023,Local government officer,13,0
+68c051dc-6cc2-4560-a233-c77bb6567262,44,Male,West Holly,Platinum,86,240.55,Home Goods,29/1/2023,Scientist research (physical sciences),5,0
+d7849532-b266-4f2f-b1c4-a7679283e525,40,Male,South Brenda,Bronze,40,132.83,Electronics,12/9/2023,Educational psychologist,8,0
+29b151d8-83e2-4539-bb54-4ba6be819d1b,60,Male,New David,Bronze,29,142.52,Clothing,23/10/2023,Occupational hygienist,1,1
+cca554cd-2210-48c7-a59a-2468f660a519,59,Female,Jasonmouth,Platinum,7,279.56,Clothing,12/2/2023,Surveyor insurance,4,1
+9bd2eb33-c4cf-45a0-807d-637cc7117d9d,40,Male,Julieland,Gold,22,942.89,Electronics,12/10/2023,Designer blown glass/stained glass,25,0
+a03f708c-7436-4472-a75c-3cfc35157cf6,42,Male,North Melissa,Gold,5,118.82,Home Goods,24/8/2023,Air traffic controller,2,1
+833e74dc-7868-4b88-98d2-a3d16e498a54,57,Female,North Matthewbury,Platinum,92,893.72,Clothing,10/12/2023,Print production planner,14,0
+36e7b94a-1301-469d-a2fa-5c7e73477ce9,64,Male,Muellertown,Gold,39,556.95,Home Goods,5/4/2023,Chief Financial Officer,3,0
+b80b80e9-3a8e-484e-b327-dc532944777e,34,Male,Lake Jonathanborough,Gold,72,798.36,Home Goods,1/3/2023,Child psychotherapist,5,1
+8f8e7e71-f87c-4e25-a62d-cd21eab0274a,60,Male,South Frankfort,Platinum,39,470.41,Home Goods,13/12/2023,Data processing manager,25,0
+0c13a18f-0f92-4dff-ad22-0f19c58ec4ea,51,Male,Fisherborough,Bronze,51,590.85,Home Goods,23/5/2023,Amenity horticulturist,19,0
+6cbd5069-3411-4743-88a4-a34d0d07ba65,54,Female,South Andre,Silver,68,343.24,Clothing,27/1/2023,Professor Emeritus,10,0
+6a18178b-2bd6-46b7-89ea-691b0087aaaf,67,Male,Melissastad,Platinum,60,327.43,Home Goods,6/2/2023,Market researcher,1,1
+c886319f-91cd-42a1-af6d-6aa7efde691c,22,Male,East Kennethmouth,Platinum,8,888.03,Clothing,18/6/2023,Engineer manufacturing,15,1
+cfbcb532-9ca7-4b48-9a62-4842c4e703f2,47,Male,West Grant,Gold,32,685.55,Electronics,22/2/2023,Estate manager/land agent,3,1
+0e449407-7d6c-4409-a3bb-4bce5f9da350,42,Female,Andersonland,Platinum,1,958.53,Electronics,13/5/2023,Television floor manager,20,1
+71049070-ca63-4e58-a1eb-981e3382fbfe,48,Female,South Dennisborough,Silver,85,910.96,Clothing,24/11/2023,Presenter broadcasting,18,1
+22e28537-e24a-43f0-91a5-f004f379eb90,36,Male,Turnertown,Gold,75,711.58,Clothing,17/5/2023,Horticulturist commercial,18,0
+dd7004fa-14a2-41f5-8510-36da623de58c,47,Male,Markfurt,Platinum,40,240.24,Clothing,18/3/2023,Contracting civil engineer,7,1
+9822580e-8bed-4845-be9f-87dab7c73327,19,Male,South Josephview,Platinum,85,188.61,Home Goods,7/9/2023,Environmental health practitioner,23,0
+f2c62a54-c09a-4435-a6f7-58fb804873c6,62,Female,Jacquelinetown,Bronze,63,595.57,Electronics,19/10/2023,Agricultural engineer,6,1
+07eca770-e3a1-41eb-9bd3-db6e9608e0e9,19,Female,New Hayley,Bronze,9,715.08,Clothing,29/5/2023,Risk manager,30,0
+18fbe705-a8a8-43f4-b115-188ca408a21d,65,Male,Pottsville,Bronze,60,540.6,Electronics,13/3/2023,Artist,6,1
+5f36d23c-ac1d-47b9-95cd-51e14c5a5201,40,Male,Stephentown,Gold,68,78.78,Electronics,29/4/2023,Barrister,21,0
+1e24c5ee-5aa9-49ca-8be2-9c05cc3cea53,33,Male,Jasonmouth,Gold,29,715.39,Home Goods,11/6/2023,Amenity horticulturist,30,1
+e6be0007-b7dc-43b2-be4f-83a639f96298,23,Female,South Aaronbury,Bronze,70,954.89,Home Goods,28/12/2023,Microbiologist,29,1
+21297bae-f19b-46cd-8526-299f539dee63,60,Male,South Rachelhaven,Platinum,41,232.15,Electronics,16/8/2023,Doctor general practice,30,0
+19aca4c8-c29a-4fa2-9ffa-71c3c169d5cf,51,Male,South Steven,Platinum,50,857.27,Electronics,2/3/2023,General practice doctor,19,1
+f029410f-0529-4ce3-b7d1-8dba319f0ef0,61,Female,East Robertomouth,Bronze,5,691.79,Electronics,11/5/2023,Publishing copy,2,0
+8ccf2040-c73a-4259-9a23-8ae8854760d5,63,Female,East Elizabeth,Platinum,46,705.91,Electronics,31/7/2023,Garment/textile technologist,29,1
+3b9eb3b7-4752-4933-ad50-9fe89f85344f,69,Female,North Matthew,Gold,15,572.03,Electronics,11/7/2023,Biomedical scientist,8,1
+33224b31-b533-4e17-9ce6-854c233f1977,20,Female,South Kaitlinfort,Bronze,73,884.55,Electronics,26/8/2023,Podiatrist,25,0
+4a79ec09-add3-4617-af78-dafc379ed354,53,Male,Dixonbury,Gold,90,964.19,Electronics,19/11/2023,Media planner,3,0
+f155f366-95f5-4e0e-8395-f3255361458a,67,Male,Port Jesus,Silver,46,957.48,Clothing,6/12/2023,Engineer broadcasting (operations),29,0
+f810b872-0529-4012-b071-40f74cea176e,44,Male,New Melissaville,Gold,74,214.01,Clothing,6/3/2023,Diagnostic radiographer,11,1
+a73a84cf-0b33-4119-a90a-e21cacf64b8b,26,Male,Clarkview,Silver,6,429.23,Clothing,16/11/2023,Horticulturist commercial,15,0
+1a5442d8-292e-409a-a504-47fa138f4645,27,Male,Donaldchester,Gold,72,68.89,Home Goods,5/10/2023,Production manager,21,1
+1d35656e-8b84-4fa7-89b5-fa53b2575bf4,39,Male,South Ricky,Gold,87,623.99,Home Goods,5/12/2023,Higher education careers adviser,19,1
+9f617656-095a-4187-a7a4-2324bd5cbf61,37,Male,Lake Ashley,Gold,19,408.03,Electronics,8/7/2023,Engineering geologist,12,1
+d1965b47-3d78-4474-aaef-201838febbef,66,Female,South Jesse,Platinum,15,989.81,Home Goods,27/5/2023,Newspaper journalist,9,0
+6faf1952-03fe-44a5-8168-72e7f992514e,19,Male,North Jasonport,Silver,67,165.92,Home Goods,23/4/2023,Investment analyst,16,1
+2739c23a-2be2-40e8-ad33-60689f1bae04,58,Female,Port Dianaland,Platinum,48,660.73,Electronics,20/11/2023,Special effects artist,18,0
+a2486547-7c13-4332-901f-826625953e18,55,Female,Timothyburgh,Silver,72,660.45,Home Goods,5/11/2023,Accommodation manager,29,0
+91855269-1cf7-4b29-999c-882258d394cf,64,Male,New Chelsea,Bronze,69,986.69,Electronics,13/9/2023,Lobbyist,20,1
+ecc7bed3-035b-4f72-b273-1eac795fd745,36,Male,East Justinmouth,Silver,100,269.51,Electronics,28/6/2023,Doctor general practice,12,0
+30e026fd-5ea3-4a59-bb1e-a2a461803335,55,Female,Powellberg,Bronze,32,812.38,Electronics,27/12/2023,Speech and language therapist,23,0
+da09c7e0-87d5-4f0f-ac66-0a47c90b5375,66,Female,North Johnny,Bronze,48,83.5,Home Goods,20/10/2023,Information officer,16,0
+51e87940-642c-499a-b5ae-1dd96c0384c9,27,Male,New Rebecca,Gold,22,837.79,Electronics,24/12/2023,Graphic designer,30,0
+3b86fbcb-fbac-4e0f-9972-f09b22a383b3,58,Female,Kellieside,Silver,88,929.64,Home Goods,7/5/2023,Soil scientist,9,1
+c4105688-1375-4e13-9d25-136b4b382eca,52,Female,New Sarahfort,Gold,45,757.83,Home Goods,20/6/2023,Minerals surveyor,7,0
+323f14ae-f8ac-46f9-a568-d589e7d7899d,49,Male,Richardburgh,Gold,21,996.79,Clothing,25/12/2023,IT technical support officer,26,0
+a692135f-a35e-4ae6-a2ad-e3a95c460b4c,46,Male,Andrewshire,Gold,89,194.11,Home Goods,18/11/2023,Health promotion specialist,5,1
+33f46e72-d69a-447c-adff-e40909c1fee2,53,Female,Port Angelamouth,Bronze,53,477.71,Home Goods,4/9/2023,Geologist engineering,7,1
+a0ca1cbf-bc47-4433-8d9f-786c0889c824,62,Male,Henryton,Platinum,46,280.46,Home Goods,17/12/2023,Emergency planning/management officer,24,1
+684dfad7-a38e-4dde-ae39-6be3585a01b4,65,Female,New Bailey,Bronze,60,696.95,Clothing,9/7/2023,Geologist wellsite,11,1
+9723ef98-00e7-4b1a-b4f8-68e4e954d30e,42,Male,Alvarezland,Gold,76,227.89,Home Goods,12/12/2023,Fast food restaurant manager,23,0
+52fdaf7e-b80b-449a-be50-45ec367029e7,57,Male,Loriside,Platinum,92,867.21,Electronics,11/2/2023,Contractor,12,0
+bfa339a6-04fb-4cbc-ab90-466a4dec3661,56,Male,Brooksport,Silver,4,50.95,Electronics,4/5/2023,Engineer water,26,0
+5decd0af-834f-4667-a123-fc3002f4a6be,57,Male,Port Kevinfurt,Platinum,32,533.41,Home Goods,5/1/2024,Glass blower/designer,15,0
+df5bf040-ee1e-472a-a538-9f4ddb96af2b,69,Female,Jillmouth,Silver,68,723.76,Clothing,13/9/2023,Site engineer,16,1
+66c5ae65-4503-4ff3-b099-bab0204fb6a5,52,Male,Gregoryland,Bronze,57,442.68,Clothing,2/8/2023,Armed forces operational officer,29,1
+42f54119-fba3-488a-a9b9-3b2f02d90577,43,Female,East Marcusport,Gold,91,907.54,Clothing,18/9/2023,Fast food restaurant manager,7,1
+5862f42d-3af9-427f-b161-52bdcb211032,55,Male,Jonathanmouth,Silver,19,232.87,Home Goods,1/10/2023,Chartered accountant,10,0
+84ce2de2-b00e-4f67-b9f7-0317890fb099,48,Female,Port Teresamouth,Silver,32,940.5,Clothing,9/10/2023,Surveyor minerals,28,1
+97ba72a6-548e-45bd-b6ea-0689411610fa,39,Male,New Michaelberg,Silver,90,287.79,Electronics,30/6/2023,Adult guidance worker,4,0
+4851e0ea-97c7-44a5-a207-d1785c6c7234,58,Female,West Jacob,Bronze,87,228.14,Electronics,19/6/2023,Special educational needs teacher,5,1
+e25c6a9f-1fba-4311-9b9b-d63c2a9541e5,47,Female,North Emma,Platinum,88,905.94,Clothing,9/9/2023,Print production planner,19,1
+b7cbb132-fe8e-4640-9f6b-fc335f8748c4,29,Male,Lake Bruceview,Gold,61,800.84,Clothing,30/10/2023,Passenger transport manager,19,0
+3876d1cf-790a-411c-8a85-3993288f9a86,38,Male,South Brittney,Platinum,12,252.49,Electronics,8/8/2023,Scientist forensic,11,1
+617b7974-da25-4abb-94d8-e6156e48fd1c,58,Male,New Michaelmouth,Bronze,84,145.6,Home Goods,24/10/2023,Building services engineer,22,1
+335a7cf8-e1f0-4df5-af75-61de5a129823,60,Male,Diazland,Bronze,17,89.76,Home Goods,15/9/2023,Social researcher,9,0
+0591c315-fc82-40d1-94c8-9184980f3e5e,45,Female,Longhaven,Bronze,70,150.34,Home Goods,24/3/2023,Scientific laboratory technician,29,0
+12a0f303-4927-43f0-b409-93c48d98a3e5,25,Male,Garciaburgh,Silver,78,867.66,Clothing,18/2/2023,Radio producer,4,1
+cf26d876-6913-41fc-8363-f28844520847,27,Female,South Patriciafurt,Gold,79,108.27,Clothing,4/12/2023,Dentist,16,1
+4faa702f-d471-44c5-bd8a-3af1d6e5f4d5,33,Male,South Kristy,Platinum,21,884.3,Clothing,9/7/2023,Engineer broadcasting (operations),14,0
+cd18cb93-e057-42b8-8e07-b93e990fe942,52,Female,Port Amy,Bronze,62,791.05,Clothing,19/7/2023,Designer graphic,3,1
+b9bae0b6-adb8-45b4-a4ee-91f32b3ac37d,54,Male,Hancockberg,Platinum,52,194.97,Home Goods,2/9/2023,Medical laboratory scientific officer,8,0
+5d0dd085-99a1-4be3-9210-6c11dffded11,48,Male,Orrfurt,Silver,82,640.58,Electronics,23/5/2023,Lobbyist,8,1
+7630547b-78e8-4dc4-b095-bdbdf3616941,51,Male,Colemanberg,Platinum,72,403.89,Home Goods,1/6/2023,Clinical cytogeneticist,10,0
+a40c6b7e-232d-43a1-ab9b-d928d5f68470,22,Female,East Georgetown,Silver,10,983.83,Clothing,2/4/2023,Mudlogger,7,0
+2652e9cb-1270-462d-9edd-07ffaf20b385,41,Male,South Crystalstad,Platinum,86,367.59,Clothing,27/3/2023,Surveyor quantity,9,1
+d50463d0-2a32-413d-b2fe-b9c560cc0574,53,Male,North Clayton,Platinum,36,231.5,Clothing,8/3/2023,Engineer technical sales,7,1
+e0debeac-6bfe-4222-b633-d1eab641aab6,62,Male,Delacruzbury,Silver,13,621.53,Electronics,28/12/2023,Copywriter advertising,1,1
+9f1a4cb0-fb83-46d4-bc55-8b32146e169d,52,Female,South Samuel,Platinum,14,876.7,Electronics,20/6/2023,Event organiser,18,0
+065512a5-e875-4586-80ed-d9127da557e3,41,Male,North Ericfurt,Platinum,98,932.3,Electronics,16/6/2023,Corporate treasurer,20,1
+c1c409cb-3706-4074-b580-e8b495e7daf5,63,Male,Port Robert,Bronze,19,127.47,Electronics,15/6/2023,Commercial art gallery manager,3,1
+26cd5157-fb5f-48ca-a33b-ec4b1bbe6b10,64,Male,Cindyville,Platinum,16,926.16,Home Goods,31/5/2023,Radio producer,4,1
+ce4b4711-bfe0-45ec-807e-6990fa32a085,21,Female,Port Lindsay,Silver,11,612.02,Home Goods,8/12/2023,Corporate investment banker,6,0
+0d954917-485d-4078-b09c-5bb842b5853b,60,Male,Port Maureenside,Silver,19,827.68,Electronics,25/10/2023,Haematologist,28,1
+2eba2762-bb1f-44f0-a7c6-72d5cabba94b,58,Female,Lake Brett,Bronze,26,87.34,Home Goods,1/5/2023,Translator,9,0
+48200a2b-6730-4b6a-8ac5-8edb24053e00,30,Female,Lake Rachelshire,Platinum,72,186.83,Clothing,25/10/2023,Environmental health practitioner,20,0
+6ea793cb-13a0-40b8-9870-0cb8453d5aac,39,Female,Lynchborough,Silver,69,86.3,Electronics,9/11/2023,Newspaper journalist,28,1
+1de2ba0e-9065-4fa1-b0e7-a6d347228ca6,28,Male,North Pamela,Platinum,23,607.09,Clothing,14/1/2023,Company secretary,11,1
+957c5c02-b07d-4ae3-93bd-0b68fe44fee8,20,Male,Christopherstad,Silver,11,737.02,Clothing,6/2/2023,Statistician,26,0
+af4c87d8-e0d0-4cfc-824c-bbf237063961,44,Female,Port Terri,Bronze,11,565.9,Clothing,5/4/2023,Scientist product/process development,13,0
+45d7f997-fb9e-44db-8b9c-8adc9722133c,42,Female,Port Annatown,Bronze,83,823.6,Electronics,21/11/2023,Location manager,2,0
+ea6103b4-8402-4a23-88fe-cfeec7aaf66e,62,Female,East Julie,Platinum,75,717.58,Electronics,19/2/2023,Development worker community,29,1
+39526f59-88ca-478e-95d5-d4d370e8205f,66,Female,New Laurenstad,Bronze,32,950.24,Clothing,24/7/2023,Cytogeneticist,14,1
+fa3a25fc-5588-49b7-ae18-b8d992243e1c,48,Male,Brittanyberg,Silver,40,570.45,Electronics,31/12/2023,Animal technologist,5,1
+6ac08318-0f74-4c5b-9a8e-f0049692faee,66,Female,Catherinechester,Platinum,61,915.48,Home Goods,25/8/2023,Dancer,18,0
+29e0b4db-12e1-4916-8d47-41ea647d5517,45,Female,New Marychester,Silver,69,83.97,Electronics,26/3/2023,Therapist drama,1,0
+1b33b55a-06c5-4a4b-82d3-e985dab5284a,31,Female,North Jessicaburgh,Gold,60,617.15,Clothing,30/8/2023,Theatre stage manager,2,0
+6cd404e5-9cd0-46e1-bcf4-57491d7c199f,37,Male,South Kevin,Silver,13,147.64,Clothing,20/4/2023,Exhibitions officer museum/gallery,7,1
+5018be46-72dd-4ef4-b677-10885098df64,64,Male,East Jacquelineville,Gold,74,970.86,Clothing,12/5/2023,Scientist audiological,8,1
+ddb05505-f9d2-4a3a-a953-9de7a230c544,56,Female,Sheppardville,Silver,16,273.59,Clothing,2/1/2024,Special educational needs teacher,3,1
+43eeec01-9a4d-499b-9fec-6162c11cd411,46,Female,Francischester,Gold,33,82.45,Clothing,3/2/2023,Museum/gallery exhibitions officer,7,0
+79008738-69ca-443f-af56-cab159faaf83,66,Male,Ashleyport,Platinum,78,153.05,Home Goods,7/4/2023,Video editor,9,0
+90670238-c63f-4d28-bc1f-02c3629df27e,59,Female,North Lauren,Silver,19,187.98,Clothing,18/5/2023,Theatre stage manager,23,0
+53ab9eb7-ac67-49e8-9871-a1bc877505d0,37,Male,Port Alexis,Gold,76,381.16,Home Goods,4/4/2023,Surveyor insurance,17,0
+faa0fece-ab83-453f-84ac-fd5eef64afb9,34,Female,West Taylorville,Bronze,38,567.54,Electronics,9/3/2023,Orthoptist,30,0
+ad9e3647-c1cd-441e-93d7-87316c948916,51,Male,New Jillian,Bronze,70,805.03,Clothing,4/1/2024,Nurse adult,13,1
+23042cc5-f22d-4184-8b66-02dca6f3c134,29,Male,Amandafurt,Bronze,55,475.86,Clothing,17/6/2023,Industrial/product designer,19,1
+cc47706a-2a2e-4ae1-8bae-e3d29af42e83,66,Female,West Kennethhaven,Silver,100,496.96,Electronics,5/1/2024,Tourist information centre manager,19,0
+a6d0abcc-3cc0-4665-b55f-f0daef345c54,44,Male,Jeromeport,Gold,38,356.39,Home Goods,24/6/2023,Retail buyer,3,1
+e30d63f3-98ce-4241-8338-965115ee369a,30,Male,Marthaberg,Gold,63,818.21,Home Goods,20/1/2023,Fish farm manager,22,0
+f9e5d06b-e083-4ac6-990c-5a10b47ef752,32,Male,Michaelstad,Platinum,7,173.66,Clothing,4/10/2023,Speech and language therapist,5,1
+458e84f5-f7f3-440c-b03c-f4eb29a7db49,31,Female,Michaelberg,Platinum,69,195.52,Electronics,24/12/2023,Chief Strategy Officer,22,1
+224b9226-a5bf-4c95-bfb7-61bf51266afe,58,Female,East Melissa,Gold,35,836.28,Electronics,29/7/2023,Chemist analytical,24,0
+fa7d1917-f138-4f21-9789-bb69e97761c8,25,Female,West Julie,Platinum,93,399.91,Home Goods,9/6/2023,Arts development officer,17,0
+de303fbe-138d-48c7-97c1-c8cf1f8f71ad,40,Male,East Dustinville,Platinum,89,744.29,Electronics,6/6/2023,Magazine features editor,8,0
+a00bc3c2-d49a-4280-8042-97697c3604d2,22,Male,Lake Williamchester,Silver,70,502.98,Clothing,7/6/2023,Scientist research (physical sciences),5,1
+9b819778-d776-45ae-b1ec-475adcfc53a2,23,Male,Snowview,Gold,55,837.94,Clothing,26/9/2023,Corporate investment banker,13,1
+a4052478-e1ae-4b98-95d9-051d0d6c4244,67,Female,Caroltown,Platinum,52,125.86,Home Goods,28/11/2023,Ecologist,2,1
+3f8ff1f1-9471-4239-a366-a009d840f07f,36,Male,West Rebeccaberg,Gold,42,163.28,Electronics,20/6/2023,Cartographer,20,0
+0409a48a-2089-430c-94e5-5b91d27a7584,39,Male,Lisabury,Silver,43,276.37,Electronics,25/8/2023,Magazine features editor,12,0
+a5ba90ad-83c1-4822-bb9d-52e23290530d,54,Male,Patrickfort,Silver,64,348.01,Home Goods,16/7/2023,Artist,29,1
+ae31629a-07b9-4405-b773-26aebaa62b23,35,Male,South Cynthiastad,Gold,86,242.91,Home Goods,23/11/2023,Surveyor commercial/residential,26,0
+5922c5ab-54cd-48d5-a817-72c7d78dc57a,64,Female,Schneiderland,Gold,99,929.04,Electronics,5/9/2023,Midwife,4,1
+c789e0cc-c836-40cd-9ef4-8e6571ecd69a,49,Female,Lake Tiffanyview,Gold,13,572.53,Electronics,10/11/2023,Hydrographic surveyor,12,1
+3ef2f11e-3aab-42a6-b44e-52b6addfc8d5,38,Female,Dawsonburgh,Gold,28,484.43,Electronics,29/3/2023,Heritage manager,26,1
+6b3f3564-92dd-45b9-a0bb-1dde86f9b0fb,19,Male,East Sarahtown,Platinum,60,449.31,Home Goods,5/7/2023,Geophysical data processor,28,1
+dd130bd8-c1c1-4309-9197-bee5dfb4a6c1,41,Female,Gardnerburgh,Silver,97,270.74,Clothing,25/4/2023,Radiographer therapeutic,28,1
+cec0851f-34f1-422a-a86a-9ff5fd1b6011,26,Female,North Cherylland,Gold,90,580.36,Home Goods,10/7/2023,Commercial art gallery manager,13,0
+cde9d2aa-ea5a-4229-b29b-21fb19ab3f6c,31,Female,Smithstad,Platinum,84,881.93,Electronics,8/6/2023,Engineer petroleum,22,1
+c73ed681-b9cf-4488-b0dc-d11edb5f6c6f,64,Female,New Crystalside,Bronze,32,609.69,Home Goods,9/9/2023,Psychologist sport and exercise,8,0
+e87e288b-ba16-47a6-9558-c5bfe8fde289,24,Female,North Angela,Bronze,81,754.59,Clothing,3/1/2024,Designer graphic,6,0
+b1d0af03-870c-4b20-8c3e-de655ead10e6,45,Male,Michelemouth,Platinum,7,480.23,Electronics,7/4/2023,Conference centre manager,23,1
+c7b0c9e8-8e20-43cb-973a-b6db4f62c41d,29,Female,North Jonathanhaven,Gold,1,806.67,Home Goods,24/4/2023,Physicist medical,30,1
+d50e9981-2ac4-467d-a0e0-56438430740f,70,Male,Grantside,Platinum,29,805.44,Clothing,25/9/2023,Paediatric nurse,27,0
+5dd58667-0115-4358-9862-58f642d0ec93,61,Male,East Alexisberg,Platinum,21,338.28,Electronics,25/8/2023,Management consultant,28,1
+f6ef5547-cfc3-4273-8faf-3e10c5da252a,23,Female,Coxside,Gold,92,844.43,Home Goods,8/10/2023,Passenger transport manager,21,1
+e56db0ac-7790-49a5-9db6-67509802f0c8,70,Female,North Brentmouth,Silver,25,109.29,Clothing,4/10/2023,Insurance underwriter,2,1
+e2288a83-1db8-4b27-b2cd-965525921964,42,Female,Audreymouth,Bronze,2,403.49,Electronics,8/2/2023,Quantity surveyor,29,1
+fd7795c3-e68c-4fb1-aa36-dca68941e34a,47,Male,Debrabury,Gold,96,824.61,Home Goods,10/7/2023,Quality manager,24,0
+7de07804-7928-481b-8e76-ca1ace4433f8,39,Male,New Marc,Platinum,6,591.47,Electronics,14/12/2023,Ophthalmologist,15,1
+4b7bab58-825c-413a-bbe1-a0f93f304a70,59,Male,West Alyssaville,Silver,59,541.44,Home Goods,19/2/2023,Physicist medical,29,0
+1ff7870f-5657-4202-9ecb-4203841124b1,35,Female,New Melissaton,Gold,60,72.01,Electronics,12/9/2023,Television/film/video producer,17,1
+7df28baa-6533-4e86-838a-4b090b9fc442,61,Male,South Adriana,Silver,91,376.18,Home Goods,29/5/2023,Designer fashion/clothing,3,0
+bb613df2-e7bf-43a8-84d1-7a6ce140a02b,57,Female,Ashleyborough,Silver,26,712.87,Home Goods,9/5/2023,Paediatric nurse,15,0
+4010e6a1-ad7b-4dc8-ad64-5ccc171d1a69,39,Male,South Marissa,Bronze,29,241.65,Home Goods,29/6/2023,Solicitor,21,1
+71094ecb-03fa-4213-b14a-0b23854647a4,64,Female,Jessicamouth,Gold,95,648.85,Electronics,23/4/2023,Psychologist occupational,13,1
+49f15e8e-44e0-4274-897f-a1e7906a9845,67,Female,North Stephanieland,Platinum,73,125.24,Home Goods,11/8/2023,Designer furniture,15,1
+288cd010-4e4e-4b03-b10c-d742868e6146,57,Female,West Cathyport,Silver,88,213.83,Clothing,5/9/2023,Forensic scientist,6,1
+c6fc32f9-833c-44f3-a722-d26a490b10a5,70,Male,Lawsonhaven,Silver,24,465.08,Home Goods,22/10/2023,Geochemist,27,0
+a07e80e3-7229-4780-a764-067bd124343d,65,Male,South Davidland,Silver,58,751.61,Electronics,13/4/2023,Mudlogger,29,0
+b7d8d1fe-b56d-44b2-a409-51031e36afbe,65,Male,Allenmouth,Silver,1,349.92,Home Goods,26/2/2023,Chief Marketing Officer,19,0
+d25399c9-379d-43ae-8b97-49dcf0177d0f,23,Male,Amberton,Platinum,67,799.46,Electronics,14/8/2023,Nurse mental health,11,0
+d1be35ed-2270-407e-ba8a-f11981ac812f,69,Female,Jeremymouth,Silver,49,83.11,Clothing,27/8/2023,Futures trader,13,0
+df3152d0-2480-432a-aea8-9c6ad8bfae23,57,Female,South Karenhaven,Bronze,59,758.06,Clothing,21/11/2023,Clinical cytogeneticist,16,0
+fc0c24ed-c2b6-47e2-9408-0099f239d71f,29,Female,Lake Mark,Bronze,93,54.33,Clothing,21/3/2023,Translator,14,0
+5d339939-7e7e-4455-9a32-09c06d92c50b,48,Male,Port Marieview,Silver,57,810.4,Clothing,8/2/2023,Copy,19,1
+59014295-ab77-48a0-9515-75eaf505e167,23,Male,North Michaelberg,Silver,47,953.79,Home Goods,26/8/2023,Multimedia programmer,18,0
+80229fe4-88df-44ad-a2ec-b5f3226bbd2a,57,Male,Grossborough,Gold,68,982.57,Clothing,20/4/2023,Graphic designer,11,1
+4fd408ff-2623-45fe-b4f8-10a19378ccf3,63,Female,Juarezstad,Gold,44,567.6,Clothing,14/3/2023,Teacher music,17,1
+61b89dbc-9948-42a6-85d2-2f94fc5735c8,66,Male,Timothyfurt,Bronze,86,591.38,Clothing,4/2/2023,Environmental education officer,20,1
+9b063962-bbbb-4c1f-95b6-aaa02d74083f,35,Female,Michaelchester,Gold,7,163.79,Electronics,29/6/2023,Town planner,14,1
+64cda7ed-2ca7-4228-83f9-e0e4835c3a74,59,Male,Chloehaven,Gold,96,530.13,Home Goods,26/6/2023,Equality and diversity officer,26,1
+9a8707da-0cea-49d3-87b9-cbbfcf63dd13,36,Male,Lake Maxwellmouth,Platinum,68,370.01,Clothing,16/2/2023,Politician's assistant,22,0
+dc118f5d-f893-47ac-b4f9-9722f3c5f8fa,58,Male,Danielside,Silver,18,379.38,Clothing,24/7/2023,Accounting technician,26,1
+21f1626d-ebde-4352-b2f9-6e247959c98b,26,Female,Josephshire,Bronze,48,863.28,Home Goods,25/7/2023,Commercial art gallery manager,5,0
+16b2c8d9-413e-4b9f-9a49-4d8ddff80353,49,Male,Delacruzton,Bronze,92,744.4,Electronics,4/5/2023,Chemical engineer,5,1
+ab56e0bc-9a14-49a9-8242-c740038e53b6,57,Male,South Mitchellfurt,Platinum,57,482.26,Home Goods,7/8/2023,Building surveyor,13,0
+2a3e248b-00cb-4059-aa47-4cfb9564ac24,37,Male,North Jefferyberg,Platinum,58,644.53,Clothing,10/9/2023,Rural practice surveyor,27,1
+08e097a9-429c-46df-8792-f7306d756cbc,21,Male,Sarahport,Bronze,22,497.98,Home Goods,10/12/2023,Producer radio,11,0
+3b1681bb-b4b2-4177-a4ae-6c7930bbd780,45,Male,East Matthewburgh,Bronze,100,879.73,Clothing,7/3/2023,Ship broker,17,1
+022b7548-eec1-4fb4-a61f-5731c5a61212,50,Female,Roberthaven,Gold,22,935.73,Electronics,7/11/2023,Primary school teacher,17,0
+ff4e2241-253a-4815-9066-e82c391eabd4,30,Male,New Timothy,Silver,19,252.53,Home Goods,14/2/2023,Public relations account executive,14,0
+5338f447-6895-4854-b5e2-436924dee96a,18,Female,Alexismouth,Silver,32,452.82,Clothing,3/5/2023,Television floor manager,13,1
+b73d0c52-4b5d-47f4-9daf-a3009d640008,25,Male,Johnchester,Platinum,86,949.87,Electronics,8/8/2023,Animal technologist,24,0
+0745edb1-d10e-405d-92e2-17376e252d5b,64,Male,Johnsonmouth,Bronze,16,399.7,Electronics,23/3/2023,Engineer electronics,12,0
+a5ae3c73-319e-4c5c-add5-e2781e4c39c6,57,Male,Rileymouth,Bronze,36,570.77,Electronics,6/5/2023,Medical secretary,3,0
+76b91a4d-83a6-4642-8b88-c597cde85296,20,Male,Lake Michael,Bronze,23,621.63,Home Goods,25/7/2023,Ecologist,18,0
+1154cbb3-c203-4ce3-abf9-5e360c711543,33,Male,East Felicia,Bronze,33,512.57,Clothing,28/4/2023,Public relations account executive,10,1
+55a13bed-e8f2-4c71-baeb-3a387d9805a1,34,Female,Port Thomastown,Bronze,44,714.32,Home Goods,13/5/2023,Advertising account planner,2,0
+6e03a7db-482c-4127-aa05-8000c655a5f8,49,Male,West Shawntown,Silver,38,610.52,Electronics,16/12/2023,Building surveyor,16,1
+d28f9dda-6ecf-42a1-a95f-a21ef4aea394,61,Male,Port Katherineburgh,Platinum,45,550.87,Electronics,2/3/2023,Producer television/film/video,10,1
+e1a0768e-9ee6-4f54-a392-d3cb32cfa165,45,Female,Lake Kristina,Platinum,41,837.95,Home Goods,27/12/2023,Press sub,5,0
+5c521a03-8dff-418b-bbc5-d27d932c42a9,69,Female,Shellyside,Bronze,67,951.19,Clothing,10/1/2023,Consulting civil engineer,25,1
+6086965f-ba2f-48a4-90bc-b65292e9dacb,21,Male,East Keith,Bronze,82,805.63,Electronics,31/5/2023,Retail banker,3,1
+f050a09a-8909-4c97-bdde-543fe61a37b7,27,Female,Andersonmouth,Gold,59,417.41,Electronics,24/11/2023,Clinical cytogeneticist,7,1
+26b1b6a9-dbd0-41b0-9429-ecaaf52d32ea,48,Female,Jamesshire,Gold,68,851.95,Home Goods,19/6/2023,Radio broadcast assistant,16,1
+9d21631e-4454-4d06-b9f9-19ea15e1a288,18,Male,Leahfort,Gold,34,414.01,Clothing,11/6/2023,Administrator local government,22,1
+506350b5-4f59-46f8-8fd6-73ad12f7f567,63,Male,Karenchester,Bronze,64,180.34,Home Goods,12/4/2023,Education administrator,17,0
+e95f3a70-0002-4194-8e9e-be0bac5004c1,46,Male,Port Reneeport,Platinum,49,248.11,Electronics,7/2/2023,Forensic scientist,3,0
+0b127e10-e860-4df2-a128-f3bbe00e8a2e,65,Female,Donaldburgh,Silver,27,552.24,Clothing,11/5/2023,Glass blower/designer,20,0
+1a134967-7b0b-46f6-921e-9b2d5ef1dc99,56,Male,Fosterville,Bronze,57,413.86,Clothing,2/1/2024,Psychiatrist,19,1
+76ef1a4c-fbc0-40a1-9f96-c4ff92d62d95,46,Female,New Alexisborough,Platinum,58,971.48,Electronics,26/9/2023,Adult nurse,28,1
+e58e6da2-f6a8-4090-8179-f493d0ba3349,41,Female,New Sethborough,Silver,80,365.84,Electronics,22/2/2023,Arts administrator,27,0
+d8c86ca8-39f7-41c1-91fa-ff7ead136cdb,29,Female,Matthewport,Gold,57,906.46,Electronics,14/3/2023,Information systems manager,8,0
+56daae68-b473-4eea-8680-dca5c58f2684,29,Female,East Maria,Silver,26,796.51,Electronics,22/6/2023,Special effects artist,25,0
+e3fe55bd-2f0c-421b-b040-a2883e8f8481,43,Female,Port Matthewland,Gold,54,169.17,Clothing,11/10/2023,Engineer manufacturing systems,16,1
+d02fe446-c846-4994-99c7-cb5408590db3,25,Male,Lake Justin,Bronze,45,907.92,Home Goods,2/6/2023,Information systems manager,21,1
+bc3652f4-5856-4cf8-bcc7-51960b4876ee,59,Male,Lake Vincentstad,Bronze,15,129.74,Electronics,1/2/2023,Production designer theatre/television/film,30,0
+65b09e04-0d35-4fc8-a335-e0fd2086a824,65,Male,Lake Stevenfurt,Bronze,50,216.11,Electronics,8/11/2023,Petroleum engineer,4,0
+0cc8580a-162f-431d-b77f-7ff1e0b4c17d,44,Female,South Jose,Silver,22,972.89,Electronics,4/10/2023,Theatre director,4,1
+e5c42025-9005-4546-9bac-0f2d800d4fcf,63,Female,Brandybury,Bronze,61,516.95,Electronics,16/9/2023,Video editor,6,0
+6c1da9eb-7a77-4ccc-8b5d-e779ee912490,58,Male,Port Crystalview,Bronze,71,983.43,Clothing,24/4/2023,Horticultural therapist,8,1
+4a7c1c3b-e0a2-4544-84bb-985f918a84f9,45,Female,Robertsmouth,Bronze,55,129.08,Clothing,9/1/2023,Telecommunications researcher,29,0
+0948e34e-d1b7-490c-aba2-fb03e09fa2ba,21,Female,New Anthony,Gold,75,787.83,Home Goods,2/11/2023,Production assistant television,23,1
+0ec779c9-5d0e-4186-b5a6-47061300a609,24,Female,East William,Silver,14,278.91,Clothing,28/12/2023,Engineer automotive,7,0
+9278e7c4-de7f-4355-abb1-ce675bca5ee6,36,Male,Port Markburgh,Gold,31,568.73,Clothing,10/5/2023,Photographer,4,0
+6f29c070-ad8d-4127-98f9-6ac63e69b44b,32,Male,Port Bruceview,Silver,47,691.94,Clothing,26/4/2023,Engineering geologist,8,1
+632523e6-a8db-437d-a3c6-cd58577b931f,67,Male,Amandashire,Silver,25,136.55,Electronics,8/11/2023,Sales promotion account executive,25,0
+fc937230-f9b3-432f-aa4d-e82d36a3950a,53,Female,Johnsonport,Silver,7,859.78,Electronics,29/6/2023,Sport and exercise psychologist,16,0
+8911b376-5991-4f79-9080-7cabd7a0a0a0,56,Male,Jeffreybury,Platinum,68,699.11,Electronics,17/7/2023,Homeopath,25,1
+7e2b5077-532c-4e59-8e4a-5c7284bbaccc,50,Male,New Deborah,Platinum,44,272.13,Clothing,16/6/2023,Psychiatric nurse,7,0
+c376d855-af27-4067-99c2-23df8e47b23b,43,Female,Lake Lisaborough,Bronze,53,966.85,Electronics,26/5/2023,Legal executive,17,1
+f4400ca4-429c-4f4b-b8f2-074148813d04,33,Male,North Judithstad,Gold,68,128.97,Clothing,21/3/2023,Designer graphic,5,0
+d22ff583-44d9-44d2-98c0-fbbe6d89e7b6,35,Male,New Rebecca,Bronze,45,490.7,Clothing,20/11/2023,Insurance account manager,28,1
+2819405e-83b7-43b9-88d7-67f17d52777e,41,Male,Lake Terry,Platinum,31,934.91,Home Goods,25/8/2023,Trade union research officer,15,0
+24da03b8-f0f8-4450-ae67-a83baefa71c6,49,Female,West Phillip,Silver,38,614.53,Clothing,1/1/2024,Buyer retail,6,1
+91ad4065-a90d-4b8d-b149-e4aa41d8630d,41,Male,Langbury,Silver,4,52.29,Electronics,18/3/2023,Scientist research (medical),19,0
+66d3d1b1-d95b-49e2-9a67-d7d347072519,57,Female,East Nathanielhaven,Platinum,60,725.96,Electronics,3/7/2023,Water engineer,19,0
+e32a1457-b7a4-407e-8e00-0ae37044d843,43,Female,South Christopher,Bronze,66,439.03,Electronics,28/6/2023,Production designer theatre/television/film,24,0
+3e6d98f2-95e8-4483-b400-6ef2de0fdf0a,53,Female,South Jennifer,Bronze,44,683.61,Electronics,26/11/2023,Horticulturist commercial,15,0
+8f9edd9d-c4db-4df9-a22d-a69cf741032d,55,Male,Port John,Gold,75,412.95,Home Goods,5/6/2023,Restaurant manager fast food,15,0
+d0064bb7-22a2-4f6a-9a16-bea448314ddb,21,Male,East Jeffrey,Gold,7,775.54,Home Goods,9/6/2023,Arts development officer,23,1
+6c10ee17-8059-44d5-b6ca-c7e0f8a88282,39,Male,North Amandabury,Bronze,59,934.53,Clothing,25/4/2023,Psychotherapist child,9,0
+06c841db-b5be-47cc-b220-0e7f6a831dcc,48,Female,Port Stephentown,Gold,19,146.6,Home Goods,8/9/2023,Telecommunications researcher,30,0
+5474ce50-22d7-48b3-bfad-59734dc5e5ac,40,Male,Geraldstad,Platinum,74,753.04,Clothing,11/3/2023,Programmer systems,27,0
+29e15def-05df-4adf-8da3-74483f6c5606,51,Male,Hernandezton,Bronze,98,612.84,Clothing,24/11/2023,Chief Executive Officer,25,1
+13eefd26-ddcd-4822-a2cf-6959e3ab711b,18,Female,Port Markmouth,Bronze,15,952.76,Clothing,12/3/2023,Nature conservation officer,1,0
+abb76545-38c4-4b31-9743-fa02ed2e1ce3,56,Male,New Shannon,Platinum,73,417.45,Clothing,20/12/2023,Contracting civil engineer,17,1
+135f3761-dc15-47a1-a79e-746ecbf7e6d6,52,Male,Smallbury,Bronze,75,229.33,Home Goods,10/4/2023,Industrial buyer,18,1
+62088d45-fcf9-402e-9c20-dcad7eb9f7cd,27,Male,New Crystal,Gold,37,724.92,Clothing,12/10/2023,Hotel manager,11,0
+3a17efd4-18c7-4345-8094-860ac79db5a6,42,Male,West Lindsay,Silver,64,66.01,Home Goods,24/3/2023,Politician's assistant,7,0
+a49b0ccc-ffb1-4854-b053-9f84d84e877b,47,Female,Marcusland,Bronze,1,229.84,Electronics,19/10/2023,Emergency planning/management officer,25,0
+566e18ca-b2b0-4a2b-a015-12b4a89cf90d,70,Male,Gardnerchester,Gold,28,856.62,Electronics,10/8/2023,Product manager,29,1
+64b3fb8d-5426-4d23-8fc9-822e10bd1592,54,Female,Gabrielstad,Platinum,92,619.7,Home Goods,5/10/2023,Energy engineer,14,0
+4938c83b-eb97-458c-beee-1bbbf5bbde1e,63,Male,South Gordonburgh,Gold,91,994.61,Home Goods,4/6/2023,Holiday representative,28,1
+f25a7baf-ac74-46d3-aae8-456f6416d76a,53,Male,Scottmouth,Silver,2,915.37,Home Goods,25/8/2023,Trade mark attorney,8,1
+c76c8407-ea2c-4bc3-82df-3c434fe13c9a,24,Male,Brittanymouth,Silver,96,803.78,Electronics,11/6/2023,Corporate treasurer,1,0
+79c212ff-4ebd-417f-886d-bf191dea7377,30,Male,Mikeland,Platinum,54,204.15,Electronics,6/7/2023,Furniture conservator/restorer,10,0
+b57bb661-a844-437e-bd73-8d99ee0c01e0,58,Male,Hernandezfurt,Bronze,3,189.43,Electronics,1/9/2023,Insurance broker,14,1
+05f3b7af-eb25-4a08-bffb-9123101f40df,46,Female,Lake Jason,Platinum,52,696.97,Home Goods,15/3/2023,Accountant chartered,16,1
+52f85c21-69ae-4306-9a09-306e47a3013d,57,Female,Lindabury,Bronze,4,655.37,Clothing,1/6/2023,Psychotherapist child,1,1
+7a770897-7979-4d4b-bb00-87f3acacb299,67,Male,West Jasonville,Silver,58,743.81,Clothing,24/9/2023,Financial risk analyst,4,0
+4ed544fa-94a9-441a-8000-ac85289148b2,50,Female,Port Mario,Bronze,19,823.76,Electronics,1/9/2023,Production assistant television,1,0
+ecc53e31-6207-4e82-8107-3810fdb99afd,59,Male,Jamesstad,Platinum,93,431.42,Home Goods,7/6/2023,Learning disability nurse,10,0
+9ef1c557-d84e-48d5-9977-bac8f9626d05,23,Male,Davidtown,Platinum,25,836.51,Clothing,20/8/2023,Surveyor insurance,27,0
+76a14d67-4b7a-4a01-9621-239f7d070ddf,45,Male,South James,Bronze,97,632.9,Home Goods,21/7/2023,Meteorologist,11,0
+8a8ca2d1-0487-4578-8cd0-9120f5fbae6a,26,Male,Kingtown,Bronze,22,455.64,Home Goods,17/5/2023,Diplomatic Services operational officer,7,1
+25aa7ba4-1685-43c2-b46b-cd72a34ec065,42,Male,Perezview,Gold,24,311.8,Home Goods,8/1/2023,Volunteer coordinator,17,0
+8f8886ae-e854-4bf1-b06b-4485c72ff47c,32,Male,North Kennethtown,Platinum,56,649.91,Clothing,24/3/2023,Network engineer,18,1
+64cfb4ea-0986-4990-a822-e220e7da231a,63,Female,North Natalie,Platinum,57,980.47,Electronics,17/9/2023,Adult guidance worker,12,0
+0c097c60-23ee-48e8-9cb9-0005e439fd6a,32,Male,Salinasland,Platinum,38,161.46,Clothing,4/6/2023,Geophysical data processor,29,0
+14e49e79-186e-42fa-bfa6-a37a5282621e,46,Female,Port Gregoryfort,Silver,73,219.62,Electronics,12/11/2023,Lobbyist,5,0
+3ffc177f-0610-4497-aa7b-fc8cb1036b68,43,Female,East Williamfort,Platinum,8,926,Clothing,4/12/2023,Medical sales representative,14,1
+180b20b0-3602-4a28-b0ec-ae586c309d2b,43,Female,New Lori,Gold,33,935.12,Clothing,6/6/2023,Airline pilot,1,0
+eaeb76d3-751f-47d8-9cc3-ade562bfe074,35,Female,Monroeland,Bronze,84,799.86,Electronics,15/5/2023,Producer television/film/video,18,1
+dd3ad360-4b4c-4cd7-b25e-a1001471b1d8,55,Female,East Emily,Gold,23,896.27,Clothing,16/12/2023,Teacher secondary school,3,0
+80dc6f51-993f-4977-b421-d1ad82ac7374,28,Male,Pennyfort,Silver,14,236.59,Electronics,4/4/2023,Barrister,26,0
+599773f6-739b-43de-81c8-a4a1bbf264f5,47,Female,Davidburgh,Platinum,2,873.44,Electronics,22/4/2023,Information officer,21,0
+773effdd-70f0-437f-be0b-817fc68c2409,41,Female,Walkerburgh,Bronze,43,103.56,Clothing,24/7/2023,Sales promotion account executive,29,1
+5d12415f-0fa0-420f-b38a-70d649f75b44,21,Female,Nelsonbury,Silver,76,184.17,Clothing,15/10/2023,Retail merchandiser,3,1
+aececfbe-d5f4-4474-b9b1-48dc4de30d93,31,Female,East Brittany,Silver,34,735.26,Clothing,22/4/2023,Mental health nurse,24,0
+c99013ed-320b-4090-b709-1870732d196b,21,Male,Wilkersonport,Platinum,15,768.12,Home Goods,10/8/2023,Operational researcher,4,1
+4b1ee961-7c18-4ff1-9045-863882d9b0cf,23,Female,West Benjaminmouth,Silver,84,258.93,Clothing,21/1/2023,Editorial assistant,18,1
+9a22d5f8-4311-4fa2-b3aa-192f30eb22cb,29,Male,Amandahaven,Bronze,63,279.65,Home Goods,23/4/2023,Museum/gallery conservator,27,0
+3a9eb15a-ebf9-4785-b1fd-c06b1abe3810,32,Female,Edwardschester,Silver,22,674.83,Clothing,28/4/2023,Primary school teacher,21,1
+0049186a-3b38-44dc-9c5e-a9f478caf39c,35,Male,Lake Melissa,Silver,18,565.87,Home Goods,31/5/2023,Operational investment banker,10,0
+a7fe0b62-0ce7-42af-88b6-69a2f59f8e77,60,Male,Hooperburgh,Gold,53,993.44,Home Goods,11/2/2023,Sales executive,21,0
+a1b492e8-5120-41ed-8edc-361eebed9bb7,30,Female,Deborahton,Bronze,31,973.42,Home Goods,30/3/2023,Trade mark attorney,16,0
+b29a7a68-1049-46de-b70b-5d9e3ab84e82,49,Female,Antoniostad,Gold,78,804.07,Home Goods,16/9/2023,Chartered loss adjuster,13,0
+ddbae608-18c6-4940-bd96-f3d90c5e81cf,35,Male,Port Gwendolyn,Silver,73,146.71,Home Goods,24/5/2023,Production assistant radio,14,1
+614c609e-84a2-4aa8-975f-82698d4d6d0d,44,Female,Nancyport,Silver,32,977.71,Home Goods,17/7/2023,Prison officer,8,1
+293022e2-e325-49bb-b6fb-5d165a911ad1,42,Male,Boothtown,Platinum,31,857.08,Clothing,25/8/2023,Adult nurse,29,1
+cfbdf66a-9944-4caa-bb5f-5390959f3c04,70,Female,Port Briannafurt,Silver,91,780.75,Clothing,17/1/2023,English as a second language teacher,1,1
+f6c46f72-732e-4e69-b05f-adb241d5c951,46,Male,South Rachelshire,Silver,87,875.29,Clothing,11/11/2023,Music therapist,22,1
+8c77fc17-cffa-4a5e-82df-39eaafba2dec,69,Male,Michellefort,Gold,71,456.2,Clothing,13/2/2023,Adult nurse,1,0
+ab11c373-2481-41f4-a385-af84a95dd9f0,52,Male,Sarahborough,Bronze,94,824.87,Electronics,27/9/2023,Purchasing manager,24,1
+14d6a03b-da29-48e3-96dd-8f728ffd187f,38,Male,Amyfurt,Bronze,61,422.49,Home Goods,15/12/2023,Primary school teacher,27,1
+d3500d7c-384c-4112-ad99-06fb0bc3f9a2,65,Female,Hillmouth,Platinum,82,713.86,Clothing,4/8/2023,Advertising account planner,4,1
+e9300b77-ef2d-4766-9a27-aa0fd4662bae,57,Female,West Jeffreyborough,Gold,48,351.93,Electronics,17/2/2023,Biomedical engineer,25,1
+df22d7da-8e42-4e23-8a1b-4d6bcfc31141,57,Female,Brianmouth,Gold,90,926.08,Electronics,19/12/2023,Surveyor mining,13,0
+09d3cbf0-3340-46ae-ab82-47bf93ceb0c5,54,Female,Valenzuelamouth,Gold,90,708.86,Home Goods,27/11/2023,Community arts worker,27,1
+46b78c3c-750c-4794-9258-57a915dbc547,53,Female,South Ashleychester,Platinum,41,750.55,Electronics,23/8/2023,Manufacturing systems engineer,10,0
+0219fe8c-7740-4b6d-962b-57ee60525f25,32,Female,Port Marcusfurt,Silver,83,291.37,Clothing,27/11/2023,Camera operator,3,1
+b365353a-cfb9-4513-952b-681564ba5765,19,Female,Harrisville,Gold,72,170.01,Clothing,21/9/2023,IT trainer,1,0
+21a39739-6a22-4ee1-a0b3-f7c134bb2e7c,21,Female,Hollandshire,Gold,67,246.53,Home Goods,3/6/2023,Horticulturist commercial,10,1
+f276d3b0-59ad-456b-b112-7902e4b4847f,37,Male,Patelville,Gold,30,624.83,Clothing,30/3/2023,Clinical embryologist,5,0
+d11b5980-4971-40b5-8f26-31633f873a77,60,Female,South Amyshire,Bronze,27,134.82,Electronics,22/11/2023,Hydrogeologist,9,1
+6e980a81-ed92-40dc-b4b9-33cc7feacbf9,63,Female,Ayersshire,Silver,12,125.27,Home Goods,19/12/2023,Herbalist,15,1
+5e727155-551b-486b-b50f-fd4f0a7f3a52,53,Male,Port Frankborough,Platinum,26,436.97,Electronics,22/5/2023,Mining engineer,15,0
+0d087eda-e862-44b2-92e7-cdffd55e98eb,33,Female,New Joel,Silver,37,668.66,Home Goods,8/6/2023,Glass blower/designer,30,0
+4c43e67f-194c-427d-ad96-82e3c9b7427a,70,Male,Yateshaven,Bronze,22,451.33,Home Goods,24/3/2023,Engineer production,12,0
+f1db5616-9882-43c8-985d-76cbecdce35e,58,Female,South Wesleytown,Gold,62,819.98,Home Goods,11/3/2023,Designer exhibition/display,29,1
+ff711c81-3159-418e-9dfe-f88484893dc9,44,Female,South Brandon,Silver,99,323.05,Home Goods,5/5/2023,Secondary school teacher,11,0
+4461cde0-fa2a-43e7-9a14-4921eef3565f,19,Female,North Jamesshire,Bronze,19,784.87,Clothing,16/2/2023,Ophthalmologist,30,1
+e03a5c38-8a73-497b-931a-b2756f26c59e,45,Female,New Katelyn,Gold,7,992.42,Electronics,23/10/2023,Food technologist,8,0
+383d2308-c02a-4a57-9f40-4fec47cb4ab2,66,Female,West Valerieton,Silver,38,194.47,Electronics,21/11/2023,Research scientist (physical sciences),15,1
+fc95289f-fe99-4155-9fc9-78eed4caecb3,33,Male,West Edwardside,Platinum,44,589.53,Clothing,15/11/2023,Podiatrist,29,1
+ce87c848-e3c9-43f7-8265-9ef1521fc598,69,Female,Garychester,Bronze,27,292.41,Electronics,10/5/2023,Buyer industrial,5,1
+12139b30-07e0-489c-a304-6d307590e102,59,Male,Summerschester,Platinum,55,416.34,Electronics,16/12/2023,Retail banker,28,1
+1bd5e430-432f-452b-a611-de52986b22e0,33,Male,North Gregoryton,Bronze,84,751.93,Electronics,6/6/2023,Oceanographer,21,0
+b1df7c46-71d0-44e4-824d-57e8e6341000,34,Male,Castilloport,Gold,35,775.16,Clothing,9/11/2023,Chartered loss adjuster,10,1
+90cd25a2-49d3-4b5b-a84d-fa183d3b916a,69,Male,Bellton,Bronze,83,145.27,Clothing,4/6/2023,Data scientist,11,0
+be3164cf-dc4a-42f8-9cd0-978b52880fac,49,Female,Hayesfurt,Platinum,63,921.12,Clothing,14/3/2023,Surveyor quantity,8,1
+2da7ec47-905e-417a-ac8e-be219c06230f,48,Male,New Heather,Gold,48,885.49,Clothing,17/7/2023,Electronics engineer,17,1
+73dff016-8006-4a5b-9aa6-71b9f111dce9,25,Male,Franklintown,Bronze,91,415.08,Home Goods,26/10/2023,Therapist horticultural,11,1
+5bcefdb9-852a-4e10-9a15-5315bd8cc2a1,60,Male,Roberthaven,Platinum,84,584.85,Clothing,24/12/2023,Speech and language therapist,22,0
+32dce788-1345-47d4-b1c7-125e33ef5137,18,Female,Saraview,Gold,13,896.06,Clothing,25/3/2023,Scientist research (medical),7,1
+f39aa7dc-0282-460f-b438-8a0be88b0e00,31,Male,Washingtonbury,Bronze,44,636.55,Clothing,1/7/2023,Biomedical engineer,23,1
+18126cea-5bc7-4b63-b405-09a6ae419087,39,Male,New Andrew,Silver,50,678.09,Clothing,3/2/2023,Wellsite geologist,28,1
+6c19a3fe-a2ce-4bdf-a622-e357ef4a1434,18,Female,Priceberg,Silver,43,290.33,Home Goods,21/10/2023,Dance movement psychotherapist,7,0
+f70ed131-7b7e-486d-bbe0-f4026e1b4e76,64,Male,New Kristen,Gold,64,367.51,Electronics,8/12/2023,Arboriculturist,20,1
+f70350a6-e90e-4f4c-a255-fb4108177cd2,50,Male,Port Anneborough,Gold,58,167.67,Clothing,18/7/2023,Theatre director,28,0
+2027db52-c3dc-4acb-bd33-8bf2e53058ae,64,Female,South Justinborough,Bronze,74,938,Home Goods,22/9/2023,Camera operator,6,0
+7bf8ef2a-4b1a-453d-86e2-32056a692b48,35,Male,Lake Jasonville,Gold,47,87.69,Electronics,30/6/2023,Consulting civil engineer,20,0
+0a7d11d9-1a52-4e9d-83dd-f20018952764,32,Male,Longfurt,Silver,75,524.01,Clothing,6/5/2023,Research scientist (medical),7,0
+adbf3bf2-b7a3-4311-a64b-45fa792852d4,44,Male,Andersonstad,Bronze,57,622.84,Clothing,3/3/2023,Designer exhibition/display,19,0
+14af41b1-08d6-457a-83c0-c7c33bcaa8ac,70,Male,West Dawnborough,Gold,61,439.25,Electronics,7/9/2023,Soil scientist,2,0
+ce3613cc-28df-4e6d-b0eb-996f31f4abf7,21,Female,Lake Daniel,Bronze,69,745.69,Home Goods,3/12/2023,Public librarian,14,1
+7cff98a6-91ac-4e6d-8dc0-d055ba89877a,67,Male,Murphystad,Silver,90,674.12,Clothing,29/6/2023,Training and development officer,10,0
+009a4154-39e1-4a1c-9651-8b083e9640f2,56,Female,North Jenny,Silver,66,935.85,Home Goods,24/2/2023,Occupational therapist,28,1
+0528f4f3-f4c0-439c-b323-d4daef432903,37,Female,Heatherchester,Bronze,50,241.9,Electronics,24/9/2023,Ranger/warden,27,1
+fc7dfdd9-a290-452f-8c62-b6f9cbce10b9,28,Female,Lake Dennisfurt,Gold,4,725.07,Home Goods,18/11/2023,Armed forces operational officer,14,0
+15c87995-498e-47c2-a2d0-7c8ae24f6beb,47,Female,Geoffreyshire,Bronze,2,88.49,Electronics,27/7/2023,Materials engineer,14,1
+034476f6-7f74-4a0b-8822-9daa4b369e77,38,Male,Kimberlyberg,Gold,20,795.24,Home Goods,29/6/2023,Scientist marine,23,0
+dda5533f-4e04-48cc-84ca-5c5e576d44d7,39,Male,East Calvin,Platinum,66,122.77,Clothing,1/10/2023,Engineer electrical,13,0
+cb9c1462-d050-4d71-85d7-6074a69126ab,59,Female,Erichaven,Bronze,76,920.44,Clothing,1/5/2023,Estate agent,5,1
+5955a9d6-1889-4c58-853e-fd79c922558a,21,Male,Randallmouth,Platinum,75,149.62,Electronics,27/11/2023,Special educational needs teacher,25,0
+72e4efe8-4734-4909-9b93-14a895c40750,49,Male,Wilsonfort,Silver,52,383.04,Electronics,21/1/2023,Engineer land,25,0
+aa915695-89b5-46f4-bf41-8743cb0a4a71,28,Female,Traceyview,Gold,71,436,Clothing,8/5/2023,Stage manager,25,0
+403e3eca-54e9-47c0-8c6b-381bea300410,21,Male,Port Oscarport,Gold,77,594.46,Clothing,25/6/2023,Designer interior/spatial,21,1
+6f231d6b-f07a-4630-bb0c-76cfcffb2ca4,35,Female,Lake Samantha,Platinum,12,601.15,Electronics,17/5/2023,Optician dispensing,16,0
+7912e4df-2460-439a-9022-5002a95afbee,31,Female,New Deborah,Gold,70,428.68,Electronics,29/7/2023,Producer television/film/video,17,0
+807ae824-2a11-452a-813b-dba7e9becca1,51,Male,Owenborough,Platinum,75,906.32,Electronics,30/4/2023,Writer,15,1
+e0794d10-e573-4e39-b1e7-7019a3c082c7,29,Female,Carterville,Platinum,4,520.05,Home Goods,12/2/2023,Microbiologist,25,0
+de3f6034-2a3b-4b57-910b-ca9586858899,64,Male,South Katelynbury,Platinum,48,622.06,Home Goods,7/3/2023,Further education lecturer,8,0
+aba5dd12-2a6f-4bef-8f23-a8db8d13c16d,49,Female,Timothyfurt,Platinum,17,809.36,Clothing,25/4/2023,Data processing manager,6,0
+21bed97e-cb28-4fb6-ac90-98cab091be26,53,Male,Port Danielle,Bronze,20,403.53,Clothing,13/12/2023,Tax inspector,12,1
+e39a88a3-faad-479d-b227-e5d5da3fb9e3,56,Male,Sallybury,Silver,58,956.47,Clothing,27/1/2023,Journalist broadcasting,28,1
+27b90d3e-12fa-4de7-bc74-4b370e34c4af,51,Male,Johnsonville,Gold,25,229.47,Clothing,29/1/2023,Sound technician broadcasting/film/video,25,0
+9ad0d6b3-f7c0-4408-bd77-925919bee6aa,56,Male,New Wyatt,Platinum,56,691.32,Electronics,19/2/2023,Buyer industrial,1,1
+72fb34ea-872c-4a30-9de5-23bc7ddec5e4,34,Female,Harmonmouth,Platinum,48,820.14,Clothing,30/3/2023,Brewing technologist,8,1
+965c31d5-268d-4326-9a02-0e37b99b36ff,39,Female,Dayshire,Platinum,89,861.94,Electronics,14/1/2023,Administrator,14,1
+660ada4c-8958-488d-8b99-7b77872fe065,52,Female,Port Jesus,Gold,30,869.66,Home Goods,12/4/2023,Editorial assistant,17,1
+522520f3-29da-4e5c-84c1-ab69bb58c581,68,Female,New Karen,Bronze,72,358.3,Clothing,30/10/2023,Tax adviser,14,0
+6803e9cc-4c26-43c6-b3d6-22c8c3300335,39,Male,Port Ryanbury,Silver,58,296.92,Electronics,17/8/2023,Scientist forensic,26,0
+83d4e211-27a2-42ff-9349-9897aa1601d7,24,Male,Stevenmouth,Bronze,85,52.97,Home Goods,29/10/2023,Investment banker corporate,24,1
+1d7f2fa4-3a41-4524-a025-6e62cd366bbd,64,Male,East Kevin,Silver,15,567.66,Home Goods,28/6/2023,Research officer government,8,0
+70569c21-c95c-4442-9ccd-79c518922137,68,Female,Port Carrie,Gold,3,220.99,Clothing,3/5/2023,Nurse mental health,4,0
+88d88727-87d7-4a53-802f-29499670bd5f,49,Male,Henryfort,Bronze,93,657.52,Home Goods,28/10/2023,Chartered loss adjuster,15,0
+9f35ea37-d232-4763-ae8e-cbee050bd273,21,Female,New Sarahport,Bronze,32,662.95,Clothing,16/8/2023,Scientist research (physical sciences),17,0
+961ce2d2-71e7-487c-80c2-987248a1709f,27,Male,Nicolestad,Gold,61,775.56,Electronics,26/6/2023,Amenity horticulturist,16,1
+72629bd5-47cc-468d-97ea-d3651da2a3af,19,Female,Jacksonview,Silver,40,512.5,Home Goods,25/3/2023,Scientist research (medical),20,1
+ff8c1de6-7eed-4f17-b632-b69ec2da154c,55,Male,South Kaylafurt,Bronze,51,378.52,Electronics,15/4/2023,Proofreader,28,0
+a33d2553-4479-4abc-9643-208a695b46aa,27,Male,Donnaton,Silver,64,670.18,Clothing,20/11/2023,Planning and development surveyor,27,0
+e63138c1-655c-4a2e-b483-21ddae1d8e33,46,Male,Gracestad,Bronze,18,737.04,Clothing,18/6/2023,Higher education lecturer,27,0
+fea9e62b-def2-40db-bd15-a7f62b203477,62,Male,Payneshire,Silver,34,672.86,Clothing,30/3/2023,Education officer environmental,15,1
+2f90b91e-0293-4a38-ab74-a420feff2860,20,Male,West Davidmouth,Bronze,63,111.14,Clothing,11/1/2023,Librarian academic,20,0
+3efbf159-f7d4-4821-93f7-5063feddf5da,59,Male,East Lindseyside,Bronze,83,827.94,Home Goods,16/5/2023,Ship broker,22,0
+2c8ca769-2409-40bc-a99b-38693cf2563f,19,Female,Emilyside,Gold,35,378.62,Electronics,6/3/2023,Surveyor commercial/residential,24,1
+6347a63e-bfc6-44d6-a84a-8bae95324b9f,37,Male,West Suzanne,Bronze,73,419.94,Electronics,14/3/2023,Oncologist,13,0
+8ee491e4-07b3-48e8-981d-3c53a02b6343,41,Female,Marioshire,Platinum,19,59.62,Clothing,15/6/2023,Industrial/product designer,12,1
+ea3be717-d64e-49f8-9708-5d10f68ec58a,44,Female,New Ann,Platinum,38,885.18,Home Goods,29/1/2023,Contractor,9,1
+28466776-cac7-4337-a39b-163c63586359,60,Male,Port Cheryl,Silver,16,200.13,Electronics,21/2/2023,Patent attorney,17,0
+03cdba07-4aa1-4c56-81eb-ed44f65e41df,64,Female,Thomasbury,Gold,41,255,Home Goods,25/7/2023,Physiological scientist,14,1
+ae04dfd4-b513-4c22-9957-a2c1f9f788cc,47,Male,East Brandy,Silver,50,843.49,Clothing,2/4/2023,Designer jewellery,23,1
+2f8da736-ee6a-40b9-b260-93b78dcb2d68,55,Female,Susanchester,Silver,45,279.14,Electronics,1/4/2023,Meteorologist,26,1
+7ff93575-c68f-445f-a709-54dce9cb05ef,51,Female,Aaronmouth,Silver,58,357.56,Clothing,21/4/2023,Holiday representative,7,0
+b3679003-4cbf-46a9-ba0c-5c45fbdbe6c4,53,Male,Angelaton,Silver,1,354.47,Clothing,3/7/2023,Futures trader,24,0
+78d03c14-18a0-4fb1-8763-b50da395a222,47,Male,Charlesborough,Bronze,12,776.97,Home Goods,30/9/2023,Surveyor building,21,0
+c083bd76-79cc-4a53-9ca6-464a34de64b1,21,Female,North Todd,Platinum,95,417.85,Home Goods,22/7/2023,Podiatrist,4,1
+61bef5e2-5b7d-4d2c-b4be-cdac3dba44f6,26,Female,Carterport,Gold,69,339.18,Electronics,10/11/2023,Geoscientist,10,0
+2b54c1d3-6933-4285-b8f0-21a177d9c952,48,Female,East Nicoleville,Gold,72,545.79,Electronics,23/3/2023,Therapist speech and language,30,0
+6ea881d9-efb4-4b3f-b66b-614157e87eeb,21,Female,Port Normafurt,Gold,30,317.72,Electronics,27/6/2023,Equities trader,16,1
+6477a847-1ae4-4feb-ad01-9146fb42be38,23,Female,West Jeff,Platinum,39,202.13,Home Goods,18/9/2023,Metallurgist,8,1
+0ad1dd92-7723-4d7e-aa6d-d9f03ba3d029,64,Female,Port Connieport,Gold,23,854.5,Home Goods,21/4/2023,Sales professional IT,12,1
+1bc45fd4-3092-4169-a75f-4c5d0bb25fad,49,Female,Lake Micheleland,Gold,71,500.97,Electronics,24/8/2023,Occupational hygienist,7,1
+8c500bcc-80e9-4775-9b6e-f78e68f0c889,70,Male,North Lisamouth,Platinum,61,722.86,Home Goods,14/10/2023,Engineer technical sales,22,1
+69a0c4d9-c5fe-493a-9faf-f848be204794,49,Male,Wrightborough,Gold,90,219.8,Clothing,6/9/2023,Market researcher,26,0
+d58bb759-778b-45b2-8dee-1277796406c4,66,Female,Riverahaven,Silver,82,913.32,Clothing,19/7/2023,Contractor,20,1
+7e8ad4e0-555d-455f-91de-cc9e62b0916f,32,Male,Edwardsburgh,Bronze,34,877.05,Electronics,24/5/2023,English as a foreign language teacher,12,1
+e98fb30a-0313-44d2-bf6d-c8141d85a90b,51,Female,North Nicole,Gold,2,589.26,Clothing,15/1/2023,Patent attorney,19,0
+5bbc2c81-ccc8-46e9-a234-63cee2798794,46,Female,Hicksville,Platinum,90,901.71,Home Goods,14/7/2023,Doctor hospital,6,1
+c289086e-9056-449b-9269-570a54f82e35,23,Female,South Cynthia,Gold,57,950.13,Clothing,26/5/2023,Public relations account executive,25,1
+e53ed6dd-239b-4f25-8631-8699bc2d7d9d,24,Female,North Michealmouth,Bronze,47,765.71,Electronics,18/2/2023,Recruitment consultant,13,1
+18428839-8b06-427d-86dd-45e7cdb2ac47,37,Male,Ramirezside,Bronze,70,479.41,Home Goods,9/11/2023,Call centre manager,11,0
+1d9f9796-8c30-4037-a6b8-499a09898bc1,31,Female,Ayersland,Platinum,52,473.87,Home Goods,11/5/2023,Higher education lecturer,22,1
+7edca7f5-f38b-4eab-919a-f54ee9b28084,32,Female,West Herbertton,Gold,71,544.19,Home Goods,2/7/2023,Furniture designer,1,1
+1403b379-2d3f-4254-9614-e96be08af4a8,29,Male,North Olivia,Gold,92,905.54,Home Goods,5/5/2023,Scientist research (maths),28,1
+51dde31c-fe09-447d-b67e-34f54f1c27a7,29,Male,Lake Kristen,Gold,15,804.05,Electronics,3/10/2023,Forest/woodland manager,4,0
+c7b7f631-877e-48aa-a680-b26cc5541ff8,57,Female,North Mariamouth,Gold,5,128.99,Clothing,24/9/2023,Administrator sports,22,0
+a0a393cb-59ad-4873-abfe-30bd04782c3a,47,Female,Mcdanielview,Platinum,21,904.79,Clothing,27/6/2023,Systems analyst,7,1
+b3752a2a-7e90-4652-b6fd-4541b50572a8,58,Female,South Jessica,Silver,3,677.51,Clothing,18/6/2023,Dance movement psychotherapist,3,1
+eb71c8fb-34e5-4d58-badb-abaa3b3fdadf,57,Male,Katherineburgh,Bronze,84,169.48,Home Goods,24/7/2023,Tourist information centre manager,2,0
+fd8bfb46-90c6-4a80-a1b8-0aeb7a2b9a31,52,Male,North Jorgeville,Platinum,73,663.39,Electronics,3/8/2023,Health and safety inspector,29,1
+e9dde7cc-31d0-474a-b05b-e70fa52ee947,18,Female,Veronicaview,Bronze,66,310.7,Clothing,10/1/2023,Psychologist occupational,2,0
+f017573d-e906-44c7-97d1-4d75ccec789e,22,Female,South Adriana,Bronze,10,274.85,Clothing,10/4/2023,Clinical biochemist,29,1
+4e6e03bf-9b9c-4a79-bb8f-95b0e0d54e5e,56,Female,Jacksonburgh,Bronze,64,993.79,Clothing,5/3/2023,Textile designer,29,1
+60fb69cf-d6f8-48ca-a12c-bec988c8f3d3,56,Male,Port Gregoryfort,Platinum,50,465.75,Electronics,9/11/2023,Sports development officer,19,1
+f07a3567-0307-4082-bb46-5adbc57c4582,49,Male,Annemouth,Platinum,46,416.01,Home Goods,21/8/2023,Passenger transport manager,20,1
+988e289a-4cd1-4ba7-a233-55203f922778,66,Male,Turnerton,Platinum,6,129.76,Home Goods,11/5/2023,Manufacturing engineer,12,0
+3e6b63e3-50b1-4f47-97af-72d72f2e110b,67,Female,Stacyhaven,Gold,52,849.43,Clothing,28/6/2023,Nurse adult,23,0
+4a5e2421-184d-4c58-9368-45a3881058dd,64,Female,Robinsonton,Platinum,9,668.76,Electronics,28/11/2023,Medical laboratory scientific officer,13,0
+88293b47-ced5-4ca9-ab0e-54372fa1220c,50,Male,South Conniechester,Gold,95,316.61,Clothing,18/1/2023,Film/video editor,26,0
+2e138b97-ee25-4538-8851-6c650ba71b44,60,Female,West George,Gold,33,919.28,Electronics,19/11/2023,Human resources officer,27,0
+45ce15c7-fce4-4db9-b662-ee1badfb18dd,49,Female,Kellerberg,Bronze,41,433.36,Home Goods,6/7/2023,Amenity horticulturist,11,0
+c819a481-4ebb-422e-a1b0-a8d7079d13ed,18,Female,North Craig,Gold,41,340.94,Home Goods,25/11/2023,Water engineer,25,0
+dd303041-76df-45c1-867d-17bbec57da57,47,Male,Tracyhaven,Platinum,49,635.84,Home Goods,9/5/2023,Insurance risk surveyor,7,0
+0b5742ae-886d-4acc-8f4b-97706ebfd0af,50,Male,West Jennifer,Gold,48,708.18,Electronics,22/4/2023,Applications developer,16,0
+ecf81e33-8a36-44b8-b587-b926499ca68c,70,Male,West Melissahaven,Gold,97,126.31,Electronics,25/9/2023,Industrial/product designer,24,1
+b9af9e9a-7595-4408-96f4-aa183ca5b659,27,Female,Lewisside,Bronze,18,180.83,Clothing,5/1/2024,Control and instrumentation engineer,28,0
+7ec9c022-6956-477c-bc9c-113180f4fe78,52,Male,Wolfeville,Silver,78,817.81,Home Goods,21/6/2023,Diagnostic radiographer,22,1
+ef17cf12-7b01-4ec4-a735-0cd03e9fd775,44,Female,Alexmouth,Silver,98,93.85,Electronics,20/10/2023,Tour manager,18,0
+e6d1e9fd-8a60-40e3-8c9b-51104aa7bcbd,59,Female,Moodyland,Platinum,95,809.83,Clothing,15/8/2023,Surgeon,30,0
+ff63a69e-df44-46bc-a311-a382176426cb,53,Female,West Brittney,Bronze,38,958.1,Home Goods,21/1/2023,Science writer,12,0
+9cb3c40e-e072-427d-ad35-f9193ae457aa,65,Male,Mcneilburgh,Gold,63,478.89,Electronics,16/1/2023,Advertising copywriter,8,0
+1c401d05-6850-4851-88ae-5096e1cabc0b,41,Male,New Tanyaborough,Gold,70,600.58,Home Goods,26/7/2023,Naval architect,13,0
+df0e0ca8-1a8c-444c-b2d2-08646b9292fb,62,Male,East Kathy,Gold,91,225.04,Home Goods,10/7/2023,Education officer environmental,22,1
+9aa49b23-1c55-4762-97cb-29fcbe8891c1,45,Male,Port Joshuaville,Bronze,55,476.39,Clothing,30/7/2023,Special effects artist,13,0
+4adae81d-9d5f-4660-b65f-4ac887369ba4,67,Female,North Robert,Platinum,43,916.29,Home Goods,12/10/2023,Web designer,6,0
+f2dd4637-7c69-40b4-a9a4-6f97ef051bc8,20,Female,Kelseyport,Silver,4,929.51,Clothing,11/5/2023,Therapist occupational,23,0
+067cb6eb-2361-4c88-852a-bf830f6271d3,18,Female,East Alison,Gold,94,853,Home Goods,11/5/2023,Designer fashion/clothing,29,0
+6e55de81-f39e-41fa-9e0b-a5b589b58b06,57,Female,Austinberg,Platinum,38,531.89,Clothing,18/11/2023,Engineer biomedical,12,1
+ea1c9a2a-e3a1-442c-832c-9bf715aab9e7,57,Female,Castroview,Platinum,76,692.21,Home Goods,13/9/2023,Speech and language therapist,5,0
+93dc7f74-5e9b-484f-8820-a9e29558cb20,27,Male,Vegastad,Silver,74,141.59,Electronics,3/11/2023,Hydrographic surveyor,12,0
+3e28d1c3-38e4-4a47-8c73-168658f16ed3,27,Male,Smithmouth,Silver,100,518.6,Clothing,6/7/2023,Museum/gallery curator,23,0
+2c30797d-b5b4-4e86-ba84-472f70162a58,26,Female,South Kevin,Silver,45,859.54,Clothing,9/9/2023,Statistician,15,0
